@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rachit</h1>
-<h3 align="center">An enthusiastic Frontend developer from Delhi.</h3>
+<h3 align="center">an enthusiastic Frontend developer from Delhi.</h3>
 
 <p align="left"> <a href="https://twitter.com/rachit_018" target="blank"><img src="https://img.shields.io/twitter/follow/rachit_018?logo=twitter&style=for-the-badge" alt="rachit_018" /></a> </p>
 
 - 🌱 I’m currently learning **FULLSTACK WEB DEVELOPMENT(MERN)**
 
-- 💬 Ask me about **REACT JS, tailwind CSS**
+- 💬 Ask me about **REACT JS, Tailwind CSS, JavaScript**
 
 - 📫 How to reach me **rachit.singh.cse.2022@gmail.com**
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rachit_018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rachit_018" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rachit singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rachit singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rachit-singh-471491258?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMpYpg3a2RLK1JWBuK7yhNQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rachit singh" height="30" width="40" /></a>
 <a href="https://instagram.com/rachit.024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rachit.024" height="30" width="40" /></a>
 </p>
 
