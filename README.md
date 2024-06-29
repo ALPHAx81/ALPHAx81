@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **FULLSTACK WEB DEVELOPMENT(MERN)**
 
-- 💬 Ask me about **REACT JS, Tailwind CSS, JavaScript**
+- 💬 Tech Stack **REACT JS, Tailwind CSS, JavaScript**
 
 - 📫 How to reach me **rachit.singh.cse.2022@gmail.com**
 
-- ⚡ Fun fact **I can make my friends laugh and cry at the same moments.**
+- ⚡ Speciality: **I can make my friends laugh and cry at the same moment.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
