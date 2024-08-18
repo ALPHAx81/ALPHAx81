@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rachit</h1>
+<h1 align="center">Lo there, I'm Rachit</h1>
 <h3 align="center">an enthusiastic Frontend developer from Delhi.</h3>
 
 <p align="left"> <a href="https://twitter.com/rachit_018" target="blank"><img src="https://img.shields.io/twitter/follow/rachit_018?logo=twitter&style=for-the-badge" alt="rachit_018" /></a> </p>
