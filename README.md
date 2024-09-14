@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **rachit.singh.cse.2022@gmail.com**
 
-- ⚡ Speciality: **I can make my friends laugh and cry at the same moment.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rachit_018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rachit_018" height="30" width="40" /></a>
