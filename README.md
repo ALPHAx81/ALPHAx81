@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/rachit_018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rachit_018" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rachit-singh-471491258?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMpYpg3a2RLK1JWBuK7yhNQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rachit singh" height="30" width="40" /></a>
-<a href="https://instagram.com/rachit.024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rachit.024" height="30" width="40" /></a>
+<a href="https://instagram.com/singh.rachit08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rachit.024" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
