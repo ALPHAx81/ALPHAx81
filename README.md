@@ -3,10 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/rachit_018" target="blank"><img src="https://img.shields.io/twitter/follow/rachit_018?logo=twitter&style=for-the-badge" alt="rachit_018" /></a> </p>
 
-- 🌱 I’m currently learning & building in **FULLSTACK domain**
-- 💬 Tech Stack **REACT JS, Tailwind CSS, JavaScript**
-
-- 📫 How to reach me **rachit.singh.cse.2022@gmail.com**
+- Currently building in **FULLSTACK domain**
+- Tech Stack **REACT JS, Tailwind CSS, JavaScript**
+- How to reach me **rachit.singh.cse.2022@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
